@@ -16,4 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Abbas&label=Back-end%20Web%20Developer&color=12&icon=2&pretty=false" />
+</a>
+
 [![](https://visitcount.itsvg.in/api?id=Abbas&label=Back-end%20Web%20Developer&color=12&icon=2&pretty=false)](https://visitcount.itsvg.in)
