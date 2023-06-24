@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**meysam138m0/meysam138m0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**abbas-nikoo/abbas-nikoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 -->
 
 [![](https://visitcount.itsvg.in/api?id=Abbas&label=Back-end%20Web%20Developer&color=12&icon=2&pretty=false)](https://visitcount.itsvg.in)
-
-[![](https://visitcount.itsvg.in/api?id=abbas&label=abbas-nikoo&color=12&icon=2&pretty=true)](https://visitcount.itsvg.in)
