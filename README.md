@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![](https://visitcount.itsvg.in/api?id=Abbas&label=Back-end%20Web%20Developer&color=12&icon=2&pretty=false)](https://visitcount.itsvg.in)
+
+![snake gif](https://github.com/abbas-nikoo/abbas-nikoo/blob/output/github-contribution-grid-snake.gif)
