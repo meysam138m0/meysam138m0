@@ -1,3 +1,9 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+👋+My+name+is+Abbas;A+Backend+web+Developer+🎭🪄☕️)](https://git.io/typing-svg)
+
+[![](https://visitcount.itsvg.in/api?id=mr-ghodsiniya&icon=5&color=1)](https://visitcount.itsvg.in)
+
+### Hi there 👋
+
 <!--
 **abbas-nikoo/abbas-nikoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
