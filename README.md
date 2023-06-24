@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **abbas-nikoo/abbas-nikoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,5 +14,7 @@ Here are some ideas to get you started:
 -->
 
 [![](https://visitcount.itsvg.in/api?id=Abbas&label=Back-end%20Web%20Developer&color=12&icon=2&pretty=false)](https://visitcount.itsvg.in)
+
+## Watch snake eating my github contribution
 
 ![Snake animation](https://github.com/abbas-nikoo/abbas-nikoo/blob/output/github-contribution-grid-snake.svg)
